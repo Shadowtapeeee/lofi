@@ -1,0 +1,11 @@
+{
+  "name": "Lo-fi",
+  "short_name": "Lo-fi",
+  "description": "«Моя волна», подборки под настроение и плеер с караоке.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050506",
+  "theme_color": "#050506",
+  "lang": "ru",
+  "icons": [{ "src": "/media/logo.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
